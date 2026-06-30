@@ -12,7 +12,7 @@ export default defineConfig({
     timeout: 5000,
   },
 
-  retries: 1,
+  retries: 0,
 
   reporter: [
     ['html'],
